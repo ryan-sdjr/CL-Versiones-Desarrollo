@@ -1,0 +1,30 @@
+{
+  "id": "com.brianclaus.crazyengine",
+  "title": "Crazy Life! Aventuras Checkotasticas!",
+  "description": "El mod oficial de Crazy Life!",
+  "github": {
+    "user": "ryan-sdjr",
+    "repo": "CL-Versiones-Desarrollo"
+  },
+"executable": {
+  "windows": "CrazyLifeEngine.exe",
+  "mac": "CrazyLifeEngine"
+},
+"theme": {
+  "version": 4,
+  "coverUrl": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/portada2.png",
+  "backgroundLibrary": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/fondo.png",
+    "color": ""
+  },
+  "backgroundDetails": {
+    "type": "none",
+    "url": "",
+    "color": ""
+  },
+  "titleColor": "FFFFFF",
+  "iconTheme": "dark",
+  "musicUrl": ""
+}
+}
