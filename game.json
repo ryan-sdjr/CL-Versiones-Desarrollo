@@ -1,7 +1,7 @@
 {
   "id": "com.brianclaus.crazyengine",
   "title": "Crazy Life! Aventuras Checkotasticas!",
-  "description": "El mod oficial de Crazy Life!",
+  "description": "El mod oficial de Crazy Life! En Desarrollo",
   "github": {
     "user": "ryan-sdjr",
     "repo": "CL-Versiones-Desarrollo"
@@ -11,7 +11,7 @@
   "mac": "CrazyLifeEngine"
 },
 "theme": {
-  "version": 4,
+  "version": 5,
   "coverUrl": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/portada2.png",
   "backgroundLibrary": {
     "type": "image",
@@ -29,3 +29,4 @@
 }
 
 }
+
