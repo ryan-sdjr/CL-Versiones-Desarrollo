@@ -11,7 +11,7 @@
   "mac": "CrazyLifeEngine"
 },
 "theme": {
-  "version": 6,
+  "version": 7,
   "coverUrl": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/portada2.png",
   "backgroundLibrary": {
     "type": "image",
@@ -19,14 +19,15 @@
     "color": ""
   },
   "backgroundDetails": {
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/fondo.png",
+    "type": "none",
+    "url": "",
     "color": ""
   },
   "musicUrl": ""
 }
 
 }
+
 
 
 
