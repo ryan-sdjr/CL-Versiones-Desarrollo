@@ -11,11 +11,11 @@
   "mac": "CrazyLifeEngine"
 },
 "theme": {
-  "version": "1",
-  "coverUrl": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/portada.png",
+  "version": "1.2.3",
+  "coverUrl": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/portada2.png",
   "backgroundLibrary": {
     "type": "image",
-    "url": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/fondo.png",
+    "url": "https://raw.githubusercontent.com/ryan-sdjr/CL-Versiones-Desarrollo/refs/heads/main/fondo2.png",
     "color": ""
   },
   "backgroundDetails": {
